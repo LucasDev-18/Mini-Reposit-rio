@@ -30,7 +30,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  /*usar na tag pai é melhor pq não vai quebrar ou desalinhar*/
 }
 
 .bat {
@@ -85,9 +84,7 @@ body {
   display: flex;
   justify-content: center;
   padding: 10px;
-  /*Cada uma foi alterada individualmente aqui(cada aba) não faz sentido ser no (.cartão .abas)*/
   transition: background-color 0.2s ease-in-out;
-
 }
 
 .abas .aba.selecionado {

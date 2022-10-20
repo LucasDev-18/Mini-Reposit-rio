@@ -20,7 +20,7 @@ span {
 }
 
 body {
-  background-image: url(./assets/Background-city.jpg);
+  background-image: url(assets/img/Background-city.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
